@@ -59,7 +59,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\lookAt.cs" />
+    <Compile Include="Assets\Scripts\lookAtMouse.cs" />
+    <Compile Include="Assets\Scripts\lookAtObj.cs" />
     <Compile Include="Assets\Scripts\rotator.cs" />
     <Reference Include="Unity.PackageManagerUI.Editor">
       <HintPath>/Users/alexpadillajr/Desktop/HackbotStudio/Games/Unity/Quaternions/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>

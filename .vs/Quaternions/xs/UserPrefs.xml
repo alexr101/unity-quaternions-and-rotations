@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{56147ECA-AC1D-75A0-04AD-87D62051C412}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/rotator.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/lookAtMouse.cs">
     <Files>
-      <File FileName="Assets/Scripts/lookAt.cs" Line="7" Column="1" />
-      <File FileName="Assets/Scripts/rotator.cs" Line="7" Column="17" />
+      <File FileName="Assets/Scripts/rotator.cs" Line="12" Column="17" />
+      <File FileName="Assets/Scripts/lookAtObj.cs" Line="8" Column="13" />
+      <File FileName="Assets/Scripts/lookAtMouse.cs" Line="7" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
