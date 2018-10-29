@@ -262,6 +262,8 @@ GameObject:
   - component: {fileID: 705847825}
   - component: {fileID: 705847824}
   - component: {fileID: 705847823}
+  - component: {fileID: 705847827}
+  - component: {fileID: 705847828}
   m_Layer: 0
   m_Name: TheEyeCube
   m_TagString: Untagged
@@ -336,6 +338,34 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &705847827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 705847822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 017ef49077d9d410da7e0b99dfd4e214, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &705847828
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 705847822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2762b492cad5a4bc8a8f93067807de0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  xRotation: 1
+  xSpeed: 1
+  yRotation: 1
+  ySpeed: 1
+  zRotation: 1
+  zSpeed: 1
 --- !u!1 &2111701768
 GameObject:
   m_ObjectHideFlags: 0
